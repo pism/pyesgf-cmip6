@@ -1,0 +1,19 @@
+---
+name: pyesgf-cmip6
+channels:
+  - conda-forge
+  - nodefaults
+
+dependencies:
+  # installation
+  - pip
+  - esgf-pyclient
+  - pandas
+  - netcdf4
+  - xarray
+  - dask
+  - python-cdo
+  - matplotlib
+  - joblib
+  - tqdm
+  - notebook

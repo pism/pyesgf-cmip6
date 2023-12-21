@@ -1,0 +1,10 @@
+esgf-pyclient
+tqdm
+netCDF4
+xarray
+pandas
+dask
+cdo
+matplotlib
+joblib
+notebook
